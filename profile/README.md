@@ -10,4 +10,4 @@ Extensive MLOPS Pipeline using below AWS Services
 
 ## Architecture Diagram
 
-![Architecture-Diagram](/profile/ArchDiagram.png "Employee Data title")
+![Architecture-Diagram](/.github/profile/ArchDiagram.png "Employee Data title")
