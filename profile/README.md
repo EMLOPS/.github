@@ -10,4 +10,7 @@ Extensive MLOPS Pipeline using below AWS Services
 
 ## Architecture Diagram
 
-![Architecture-Diagram](/.github/profile/ArchDiagram.png "Employee Data title")
+![Architecture-Diagram](https://github.com/EMLOPS/.github/blob/main/profile/ArchDiagram.png)
+
+## Sagemaker Model Pipeline
+![BuildPipeline](https://github.com/EMLOPS/.github/blob/main/profile/modelbuild-success.png)
